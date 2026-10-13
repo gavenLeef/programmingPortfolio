@@ -6,34 +6,32 @@
 
 ## Current Status
 Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+- [Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (×), and Division (÷).]
+- [Special function operations: Clear (C), Sign Toggle (±), Square Root (√), and Sine in degrees (s).]
 
 Still in progress:
-- [A requirement you are finishing]
+- [Still working on coding in the decimal input.]
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
+Processing version: [4.5.6]
 
 [After the project files are uploaded, identify the
 project folder and main .pde file to open and run.]
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+[+ , - , × , ÷ Buttons: Set the active arithmetic operator and prepare for right-operand entry.= Button: Triggers calculation and prints the calculated result.C Button: Resets left operand, right operand, operator, and display back to 0.0.± Button: Inverts the sign (+ / -) of the active operand.√ Button: Calculates the square root of the active operand.s Button: Calculates sine (converting active value from degrees to radians).. Button: Decimal point button (currently pending logic implementation).]
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+[Every key viable from the keyboard works in the program.]
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+[Calculator.PDE
+Button.PDE]
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+[Testing the calculators arithmatic functions and keyboard use.]
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+[Implement decimal point processing inside handleEvent so pressing . allows floating point entries like 3.14, and add keyboard binding for the period key in keyPressed.]
