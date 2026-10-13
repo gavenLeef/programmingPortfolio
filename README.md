@@ -10,7 +10,7 @@ Working:
 - [Special function operations: Clear (C), Sign Toggle (±), Square Root (√), and Sine in degrees (s).]
 
 Still in progress:
-- [Still working on coding in the decimal input.]
+- [Display limitations.]
 
 ## How to Run
 Built with Processing.
