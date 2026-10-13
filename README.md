@@ -2,8 +2,7 @@
 # [Gaven's Calculator]
 ![Calculator](https://github.com/gavenLeef/programmingPortfolio/blob/main/images/Calc.png?raw=true)
 ## Overview
-[Write 2–3 sentences explaining what you are building
-and what a user can do with it.]
+[I have built a graphical calculator equipped with a digital display and an interactive button layout. Users can perform standard addition, subtraction, multiplication, and division along with additional functions like square roots, sine calculations, and sign toggles. this calculator allows users to operate the it either by clicking on screen buttons with a mouse or by typing directly on the keyboard.]
 
 ## Current Status
 Working:
